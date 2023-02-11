@@ -2,7 +2,7 @@
 
 # play_with_Sorting_Algorithms
 
-##Visualization of a variety of sorting algorithms.
+## Visualization of a variety of sorting algorithms.
 
 
 ## Algorithms
